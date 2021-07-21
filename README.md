@@ -1,6 +1,6 @@
 # Hi I'm Ajith 👋
 [![Linkedin Badge](https://img.shields.io/badge/-ajshetty28-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajshetty28/)](https://www.linkedin.com/in/ajshetty28/)
-[![Medium Badge](https://img.shields.io/badge/-@__ajithshetty28-000000?style=flat&labelColor=000000&logo=Medium&link=https://ajithshetty28.medium.com/)](https://ajithshetty28.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-ajithshetty28-000000?style=flat&labelColor=000000&logo=Medium&link=https://ajithshetty28.medium.com/)](https://ajithshetty28.medium.com/)
 [![Website Badge](https://img.shields.io/badge/-ajshetty?style=flat&logo=Github&logoColor=black&link=https://bigdatanerd.github.io/)](https://bigdatanerd.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-ajithshetty28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajithshetty28@gmail.com)](mailto:ajithshetty28@gmail.com)
 
