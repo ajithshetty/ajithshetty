@@ -6,5 +6,22 @@
 
 Welcome to my profile! I'm a Bigdata engineer, an aspiring [writer](https://ajithshetty28.medium.com), Love spending time in learning new technologies and writing the blogs. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ajshetty28/)!
 
+Here are my medium blogs.
+
+[Spark Bucketing is not as simple as it looks](https://ajithshetty28.medium.com/spark-bucketing-is-not-as-simple-as-it-looks-c74f105f4af0)
+
+[Lesser Known Facts/Short cuts in Spark(PART2)](https://ajithshetty28.medium.com/lesser-known-facts-short-cuts-in-spark-part2-4dc801a83dfb)
+
+[Let’s talk about Spark (Un)Cache/(Un)Persist in Table/View/DataFrame, In depth](https://ajithshetty28.medium.com/lets-talk-about-spark-un-cache-un-persist-in-table-view-dataframe-in-depth-3b943a45fb3e)
+
+[Spark, Parallelising the Parallel Jobs](https://ajithshetty28.medium.com/spark-parallelising-the-parallel-jobs-77b819314d5a)
+
+[Predicate Pushdown is for real??](https://ajithshetty28.medium.com/predicate-pushdown-is-for-real-274f1426a0dd)
+
+[Lesser Known Facts/Short cuts in Spark(PART1)](https://ajithshetty28.medium.com/lesser-known-facts-short-cuts-in-spark-part1-77596e367676)
+
+[What’s the buzz about Parquet File format?](https://ajithshetty28.medium.com/whats-the-buzz-about-parquet-file-format-8a1fe4f65de)
+
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajithshetty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
