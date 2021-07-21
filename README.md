@@ -21,7 +21,3 @@ Here are my medium blogs.
 [Lesser Known Facts/Short cuts in Spark(PART1)](https://ajithshetty28.medium.com/lesser-known-facts-short-cuts-in-spark-part1-77596e367676)
 
 [What’s the buzz about Parquet File format?](https://ajithshetty28.medium.com/whats-the-buzz-about-parquet-file-format-8a1fe4f65de)
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajithshetty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
