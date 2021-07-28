@@ -8,6 +8,9 @@ Welcome to my profile! I'm a Bigdata engineer, an aspiring [writer](https://ajit
 
 Here are my medium blogs.
 
+
+[Who, What and Why DAGSTER!!](https://ajithshetty28.medium.com/who-what-and-why-dagster-c97f8c2335b1)
+
 [Spark Bucketing is not as simple as it looks](https://ajithshetty28.medium.com/spark-bucketing-is-not-as-simple-as-it-looks-c74f105f4af0)
 
 [Lesser Known Facts/Short cuts in Spark(PART2)](https://ajithshetty28.medium.com/lesser-known-facts-short-cuts-in-spark-part2-4dc801a83dfb)
@@ -21,3 +24,4 @@ Here are my medium blogs.
 [Lesser Known Facts/Short cuts in Spark(PART1)](https://ajithshetty28.medium.com/lesser-known-facts-short-cuts-in-spark-part1-77596e367676)
 
 [What’s the buzz about Parquet File format?](https://ajithshetty28.medium.com/whats-the-buzz-about-parquet-file-format-8a1fe4f65de)
+
