@@ -25,3 +25,4 @@ Here are my medium blogs.
 
 [What’s the buzz about Parquet File format?](https://ajithshetty28.medium.com/whats-the-buzz-about-parquet-file-format-8a1fe4f65de)
 
+Interested in getting the weekly updates on the big data analytics around the world, do subscribe to my: [Weekly Newsletter Just Enough Data](https://justenoughdata.substack.com)
