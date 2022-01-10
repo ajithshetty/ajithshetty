@@ -6,7 +6,7 @@
 
 Welcome to my profile! I'm a Bigdata engineer, an aspiring [writer](https://ajithshetty28.medium.com), Love spending time in learning new technologies and writing the blogs. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ajshetty28/)!
 
-Here are my medium blogs.
+Here are my few medium blogs.
 
 
 [Who, What and Why DAGSTER!!](https://ajithshetty28.medium.com/who-what-and-why-dagster-c97f8c2335b1)
@@ -24,5 +24,7 @@ Here are my medium blogs.
 [Lesser Known Facts/Short cuts in Spark(PART1)](https://ajithshetty28.medium.com/lesser-known-facts-short-cuts-in-spark-part1-77596e367676)
 
 [What’s the buzz about Parquet File format?](https://ajithshetty28.medium.com/whats-the-buzz-about-parquet-file-format-8a1fe4f65de)
+
+[Full list of Blogs](https://ajithshetty28.medium.com/)
 
 Interested in getting the weekly updates on the big data analytics around the world, do subscribe to my: [Weekly Newsletter Just Enough Data](https://justenoughdata.substack.com)
