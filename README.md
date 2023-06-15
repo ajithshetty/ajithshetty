@@ -3,11 +3,21 @@
 [![Medium Badge](https://img.shields.io/badge/-ajithshetty28-000000?style=flat&labelColor=000000&logo=Medium&link=https://ajithshetty28.medium.com/)](https://ajithshetty28.medium.com/)
 [![Website Badge](https://img.shields.io/badge/-ajithshetty.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bigdatanerd.github.io)](https://ajithshetty.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-ajithshetty28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajithshetty28@gmail.com)](mailto:ajithshetty28@gmail.com)
+[![Substack Badge](https://img.shields.io/badge/-justenoughdata-000000?style=flat&labelColor=000000&logo=Substack&link=https://justenoughdata.substack.com/)](justenoughdata.substack.com)
 
 Welcome to my profile! I'm a Bigdata engineer, an aspiring [writer](https://ajithshetty28.medium.com), Love spending time in learning new technologies and writing the blogs. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ajshetty28/)!
 
+Subscribe to my Newsletter [Just Enough Data](https://justenoughdata.substack.com/)
+
 Here are my few medium blogs.
 
+[Kestra: An Extra powerful Orchestrator](https://ajithshetty28.medium.com/kestra-an-extra-powerful-orchestrator-f6aa21110a02)
+
+[Promptimize: Step towards the Future](https://ajithshetty28.medium.com/promptimize-step-towards-the-future-990667472ed3)
+
+[Hey there, I’m using Mage!](https://medium.com/@ajithshetty28/hey-there-im-using-mage-942b2e51a80)
+
+[ODD Platform: Modern Data Solution](https://ajithshetty28.medium.com/odd-platform-modern-data-solution-e2c87fb8242a)
 
 [Who, What and Why DAGSTER!!](https://ajithshetty28.medium.com/who-what-and-why-dagster-c97f8c2335b1)
 
