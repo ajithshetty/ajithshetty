@@ -7,7 +7,7 @@
 
 Welcome to my profile! I'm a Bigdata engineer, an aspiring [writer](https://ajithshetty28.medium.com), Love spending time in learning new technologies and writing the blogs. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ajshetty28/)!
 
-Subscribe to my Newsletter [Just Enough Data](https://justenoughdata.substack.com/)
+Interested in getting the weekly updates on the big data analytics around the world, do subscribe to my: [Newsletter Just Enough Data](https://justenoughdata.substack.com)
 
 Here are my few medium blogs.
 
@@ -37,4 +37,3 @@ Here are my few medium blogs.
 
 [Full list of Blogs](https://ajithshetty28.medium.com/)
 
-Interested in getting the weekly updates on the big data analytics around the world, do subscribe to my: [Weekly Newsletter Just Enough Data](https://justenoughdata.substack.com)
